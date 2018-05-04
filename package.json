@@ -20,5 +20,8 @@
   "dependencies": {
     "webpack": "^4.6.0",
     "webpack-cli": "^2.0.15"
+  },
+  "engines": {
+    "node": "10.x.x"
   }
 }
